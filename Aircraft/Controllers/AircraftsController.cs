@@ -38,6 +38,7 @@ namespace Beslogic.Pratice.API.Controllers
 
         }
 
+        // edit aircraft
         [HttpPut("{id}")]
         public async Task<Aircraft> UpdateAircrafts(int id, Aircraft aircraft)
         {
