@@ -1,9 +1,6 @@
-﻿using Beslogic.Pratice.API.Context;
-using Beslogic.Pratice.API.Models;
+﻿using Beslogic.Pratice.API.Models;
 using Beslogic.Pratice.API.Services;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System.Runtime.CompilerServices;
 
 namespace Beslogic.Pratice.API.Controllers
 {
